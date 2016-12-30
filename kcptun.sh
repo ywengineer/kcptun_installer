@@ -38,7 +38,7 @@ JQ=/usr/bin/jq
 ## 参数默认值
 # associative array
 declare -Ar DEFAULT=(
-	[LISTEN]=60508
+	[LISTEN]=60626
 	[TARGET_IP]="127.0.0.1"
 	[TARGET_PORT]=12948
 	[KEY]="it's a secrect"
